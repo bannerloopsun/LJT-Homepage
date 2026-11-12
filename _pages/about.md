@@ -45,7 +45,7 @@ I am a first-year PhD candidate in the HKUST NLP Group, supervised by Professor 
 
 ## Publications
 
-The publication collection is also available on the [Publications]({{ '/publications/' | relative_url }}) subpage. All six publications recorded in memory are listed below.
+The complete bibliographic list is also available on the [Publications]({{ '/publications/' | relative_url }}) subpage.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv, 2025) — First author. Authors: Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (arXiv, 2025) — First author. Authors: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
