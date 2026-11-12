@@ -95,7 +95,6 @@ include:
   - .htaccess
   - _pages
   - files
-complete_exclude_placeholder: false
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
