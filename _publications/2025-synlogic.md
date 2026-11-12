@@ -14,3 +14,5 @@ citation: 'Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhan
 **Venue:** arXiv (2025)
 
 **Author role:** First author.
+
+**Code repository:** Available on GitHub.
